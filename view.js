@@ -1,6 +1,6 @@
 const mainSuit = (human, comp) => {
-    let bigW = ['MANTAP BANG JAGO', 'BANG JAGOW EMANG', 'HEBAT! MENANG!!'];
-    let pressF = ['AH CUPU..', 'MASA KALAH..', 'CUPS AH..'];
+    let bigW = ['MANTAP BG', 'BANG JAGOW', 'HEBAT SI ABANG'];
+    let pressF = ['CUPU BG?', 'MASA KALAH..', 'ELAH BG..'];
     let seriAja = ['.....', 'COBA LAGI', 'IMBANG AJA NIH?'];
     let randomizer = Math.floor(Math.random() * 3);
     let tag1 = document.getElementById('satu');
